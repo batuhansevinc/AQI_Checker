@@ -1,6 +1,6 @@
 import requests
 
-api_key = '50de0be1fab8d565d02c21ea79d635b3ec46c8b9'
+api_key = 'GET YOUR API KEY FROM https://waqi.info/'
 
 
 class AQIRequester:
